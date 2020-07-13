@@ -9,10 +9,8 @@
 
 ### Hi there 👋
 ______________________________________________
-* 📱 React-Native Dev at <a href="https://arunayazilim.com" target="_blank">Aruna Yazılım</a>, İzmir/TÜRKİYE.
+* 📱 React-Native Dev at [Aruna Yazılım A.Ş.](https://arunayazilim.com), İzmir/TÜRKİYE.
 * 💻 Lover for Android, a bit ios
 * 🧑 Interest hybrid technologies(Software, car...)
 * 🧬 Graduated Pamukkale Univercity
- | [Linkedin](https://www.linkedin.com/in/OkancanCosar/)
-
-
+*  [Linkedin](https://www.linkedin.com/in/OkancanCosar/)
