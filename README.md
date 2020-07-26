@@ -14,3 +14,4 @@ ______________________________________________
 * 🧑 Interest hybrid technologies(Software, car...)
 * 🧬 Graduated Pamukkale Univercity
 *  [Linkedin](https://www.linkedin.com/in/OkancanCosar/)
+* [Check out my gists](https://gist.github.com/OkancanCosar) 
