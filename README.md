@@ -3,7 +3,7 @@
 <img src="https://github.com/OkancanCosar/OkancanCosar/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%"><img src="https://github.com/OkancanCosar/OkancanCosar/blob/master/500b27120a0a261bfab28f0390bf48df.gif" object-fit="cover" width="50%">
 
 
-## Okancan COŞAR  ![GitHub followers](https://img.shields.io/github/followers/OkancanCosar?label=follow&style=social) 
+## Okancan COŞAR
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/OkancanCosar/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:okancancosar@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
