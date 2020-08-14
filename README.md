@@ -15,3 +15,6 @@ ______________________________________________
 * 🧬 Graduated Pamukkale Univercity
 *  [Linkedin](https://www.linkedin.com/in/OkancanCosar/)
 * [Check out my gists](https://gist.github.com/OkancanCosar) 
+
+
+[![](https://github-readme-stats.vercel.app/api?username=OkancanCosar)](https://github.com/OkancanCosar/)
