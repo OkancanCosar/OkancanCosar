@@ -7,7 +7,7 @@
 
 ### Hello everyone 👋
 ______________________________________________
-* 📱 React-Native Dev at [Aruna Yazılım A.Ş.](https://arunayazilim.com), İzmir/TÜRKİYE.
+* 📱 React-Native Dev at [Simternet Inc.](https://www.simternet.com/), İzmir/TÜRKİYE.
 * 💻 Lover for Android, a bit ios
 * 🧑 Interest hybrid technologies(Software, car...)
 * 🧬 Graduated Pamukkale Univercity
