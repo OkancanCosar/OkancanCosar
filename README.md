@@ -7,7 +7,7 @@
 
 ### Hello everyone 👋
 ______________________________________________
-* 📱 React-Native Dev at [KNS Information Technologies](https://www.kns.com.tr/), İstanbul/TURKEY.
+* 📱 React-Native Dev!
 * 💻 Lover for Android, a bit ios
 * 🧑 Interest hybrid technologies(Software, car...)
 * 🧬 Graduated Pamukkale Univercity
